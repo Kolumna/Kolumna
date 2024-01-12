@@ -1,4 +1,4 @@
-Hi 👋 My name is Michał Janiec
+Hi 👋 My name is Michał
 ==============================
 
 Full Stack Developer
