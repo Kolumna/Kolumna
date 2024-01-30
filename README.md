@@ -1,7 +1,7 @@
 Hi 👋 My name is Michał
 ==============================
 
-Full Stack Developer
+Software Engineer
 --------------------
 
 I love creating applications. I have been doing this for several years and I am constantly developing to stay up to date with technologies. It gives me a lot of fun!
